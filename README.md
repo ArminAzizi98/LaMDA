@@ -3,7 +3,7 @@
   <a href="https://opensource.org/licenses/Apache-2.0"><img src="https://img.shields.io/badge/License-Apache%202.0-green"></a> &ensp;
   <a href="https://arxiv.org/pdf/2406.12832v1"><img src="https://img.shields.io/static/v1?label=Paper&message=arXiv&color=red&logo=arxiv"></a> &ensp;
 
-This repository provides the source code of the accepted **EMNLP2024** paper "LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation"
+This repository provides the source code of the accepted **EMNLP2024 findings** paper "LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation"
 
   ---
   ***LaMDA: A Memory Efficient Fine-Tuning Approach for LLMs!***
