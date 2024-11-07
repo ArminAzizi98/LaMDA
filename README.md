@@ -18,6 +18,15 @@ This repository provides the source code of the accepted **EMNLP2024 findings** 
 
 ---
 
+## Installation
+
+To install all dependencies and run the trainer replacement script, use the following commands:
+
+```bash
+pip install -r requirements.txt
+./replace_trainer.sh
+
+
 ## Disclaimer:
 This “research quality code” is for Non-Commercial purposes and provided by the contributors “As Is” without any express or implied warranty of any kind. The organizations (USC or Intel) involved do not own the rights to the data sets used and do not confer any rights to it. The organizations (USC or Intel) do not warrant or assume responsibility for the accuracy or completeness of any information, text, graphics, links or other items within the code. A thorough security review has not been performed on this code. Additionally, this repository may contain components that are out of date or contain known security vulnerabilities.
 
