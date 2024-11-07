@@ -1,0 +1,17 @@
+transformers
+accelerate
+peft
+evaluate
+scikit-learn
+scipy
+typing_extensions
+einops
+deepspeed
+datasets
+sentencepiece
+setuptools
+rouge-score
+nltk
+openai
+tensorboard
+tensorboardX
